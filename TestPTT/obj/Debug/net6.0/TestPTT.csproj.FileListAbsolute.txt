@@ -1,0 +1,15 @@
+/Users/vantheeramat/Desktop/TestPTT/TestPTT/bin/Debug/net6.0/TestPTT
+/Users/vantheeramat/Desktop/TestPTT/TestPTT/bin/Debug/net6.0/TestPTT.deps.json
+/Users/vantheeramat/Desktop/TestPTT/TestPTT/bin/Debug/net6.0/TestPTT.runtimeconfig.json
+/Users/vantheeramat/Desktop/TestPTT/TestPTT/bin/Debug/net6.0/TestPTT.dll
+/Users/vantheeramat/Desktop/TestPTT/TestPTT/bin/Debug/net6.0/TestPTT.pdb
+/Users/vantheeramat/Desktop/TestPTT/TestPTT/obj/Debug/net6.0/TestPTT.csproj.AssemblyReference.cache
+/Users/vantheeramat/Desktop/TestPTT/TestPTT/obj/Debug/net6.0/TestPTT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vantheeramat/Desktop/TestPTT/TestPTT/obj/Debug/net6.0/TestPTT.AssemblyInfoInputs.cache
+/Users/vantheeramat/Desktop/TestPTT/TestPTT/obj/Debug/net6.0/TestPTT.AssemblyInfo.cs
+/Users/vantheeramat/Desktop/TestPTT/TestPTT/obj/Debug/net6.0/TestPTT.csproj.CoreCompileInputs.cache
+/Users/vantheeramat/Desktop/TestPTT/TestPTT/obj/Debug/net6.0/TestPTT.dll
+/Users/vantheeramat/Desktop/TestPTT/TestPTT/obj/Debug/net6.0/refint/TestPTT.dll
+/Users/vantheeramat/Desktop/TestPTT/TestPTT/obj/Debug/net6.0/TestPTT.pdb
+/Users/vantheeramat/Desktop/TestPTT/TestPTT/obj/Debug/net6.0/TestPTT.genruntimeconfig.cache
+/Users/vantheeramat/Desktop/TestPTT/TestPTT/obj/Debug/net6.0/ref/TestPTT.dll
